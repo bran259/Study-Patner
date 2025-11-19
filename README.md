@@ -1,4 +1,4 @@
-# AI Study Partner — Programming Tutor
+#  Study Partner — Programming Tutor
 
 A small interactive command-line tutor for beginner programming concepts. Users can learn predefined topics, list available topics, or teach the tutor new topics.
 
@@ -11,10 +11,10 @@ A small interactive command-line tutor for beginner programming concepts. Users 
 ## Topics
 The initial knowledge base includes the following fundamental topics:
 
-Variables
-Data Types
-Print Statements
-Comments
+Variables,
+Data Types,
+Print Statements,
+Comments,
 
 ## Quick start
 
